@@ -1,6 +1,6 @@
 👋 Hi, I’m Nick!
 
-I’m interested in programming and have been working in multiple programming languages,
+I’m interested in programming and have been working in the following programming languages,
 - Web Dev: HTTP, CSS, PHP, JavaScript
 - App Dev: Python, C++
 
