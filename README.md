@@ -3,6 +3,7 @@
 I’m interested in programming and have been working in the following programming languages,
 - Web Dev: HTTP, CSS, PHP, JavaScript
 - App Dev: Python, C++
+- Machine Learning - Python
 
 I’m currently delving deeper into Python Development (Data Scraping, Machine Learning, Website Dev - using Flask)
 
