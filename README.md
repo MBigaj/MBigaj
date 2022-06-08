@@ -5,7 +5,7 @@ I’m interested in programming and have been working in the following programmi
 - App Dev: Python, C++
 - Machine Learning - Python
 
-I’m currently delving deeper into Python Development (Data Scraping, Machine Learning, Website Dev - using Flask)
+I’m currently delving deeper into Python Development (Machine Learning, Web Dev - Flask, Django, React)
 
 mikolaj.bigaj.00@gmail.com - for any work related topics
 
