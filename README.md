@@ -1,6 +1,6 @@
 👋 Hi, I’m Nick!
 
-I'm a Computer Science degree student with lots of aspirations and motivation to code!
+I'm a Computer Science University student with lots of aspirations and motivation to code!
 My main interest is programming and I have been working in the following programming languages:
 - Web Dev: HTTP, CSS, PHP, JavaScript
 - App Dev: Python, C++
