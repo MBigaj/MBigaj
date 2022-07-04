@@ -4,7 +4,7 @@ I'm a Computer Science University student with lots of aspirations and motivatio
 My main interest is programming and I have been working in the following programming languages:
 - Web Dev: JavaScript, React, HTML, CSS, PHP
 - App Dev: Python, C++
-- Machine Learning - Python
+- Machine Learning: Python
 
 I’m currently delving deeper into Python Development (Machine Learning, Web Dev - Flask, Django, React)
 
