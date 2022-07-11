@@ -6,7 +6,7 @@ My main interest is programming and I have been working in the following program
 - App Dev: Python, C++
 - Machine Learning: Python
 
-I’m currently delving deeper into Python Development (Machine Learning, Web Dev - Flask, Django, React)
+I’m currently delving deeper into Python Development ( Machine Learning, Web Dev - Flask, Django, React )
 
 mikolaj.bigaj.00@gmail.com - for any work related topics
 
