@@ -1,7 +1,7 @@
 👋 Hi, I’m Nick!
 
 I'm a Computer Science University student with lots of aspirations and motivation to code!
-My main interest is programming and I have been working in the following programming languages:
+My main interest is software development and I have been working in the following programming languages:
 - App Dev: Python, C++, Go
 - Machine Learning: Python
 - DataScience: Python
