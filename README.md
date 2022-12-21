@@ -5,7 +5,7 @@ My main interest is programming and I have been working in the following program
 - App Dev: Python, C++, Go
 - Machine Learning: Python
 - DataScience: Python
-- Web Dev: JavaScript, React, HTML, CSS, PHP
+- Web Dev: JavaScript, VueJS, React, HTML, CSS, PHP
 
 I’m currently delving deeper into Python Development ( Machine Learning ), Web Dev ( Django, React, VueJs )
 
