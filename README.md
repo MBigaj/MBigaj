@@ -7,7 +7,7 @@ My main interest is programming and I have been working in the following program
 - DataScience: Python
 - Web Dev: JavaScript, VueJS, React, HTML, CSS, PHP
 
-I’m currently delving deeper into Python Development ( Machine Learning ), Web Dev ( Django, React, VueJs )
+I’m currently delving deeper into Python Software Engineering, mostly Machine Learning, Data Science
 
 mikolaj.bigaj.00@gmail.com - for any work related topics
 
