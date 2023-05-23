@@ -2,10 +2,11 @@
 
 I'm a Computer Science University student with lots of aspirations and motivation to code!
 My main interest is software development and I have been working in the following programming languages:
-- App Dev: Python, C++, Go
+- App Dev: Python, PHP, C++, Go
 - Machine Learning: Python
 - DataScience: Python
-- Web Dev: JavaScript, VueJS, React, HTML, CSS, PHP
+- Web Dev: JavaScript, VueJS, React, HTML, CSS
+- Databases: PostgreSQL, MariaDB
 
 I’m currently delving deeper into Python Software Engineering, mostly Machine Learning, Data Science
 
