@@ -8,7 +8,7 @@ My main interest is software development and I have been working in the followin
 - Web Dev: PHP, JavaScript, VueJS, React, HTML, CSS
 - Databases: PostgreSQL, MariaDB
 
-I’m currently delving deeper into Python Software Engineering, mostly Machine Learning, Data Science
+I am currently working as a Backend Developer in PHP. Along the job, I like enhancing my skills by making side-projects in my free time! 
 
 mikolaj.bigaj.00@gmail.com - for any work related topics
 
