@@ -5,7 +5,7 @@ My main interest is software development and I have been working in the followin
 - App Dev: Python, PHP, C++, Go
 - Machine Learning: Python
 - DataScience: Python
-- Web Dev: JavaScript, VueJS, React, HTML, CSS
+- Web Dev: PHP, JavaScript, VueJS, React, HTML, CSS
 - Databases: PostgreSQL, MariaDB
 
 I’m currently delving deeper into Python Software Engineering, mostly Machine Learning, Data Science
