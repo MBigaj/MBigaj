@@ -10,7 +10,7 @@ My main interest is software development and I have been working in the followin
 - Databases: PostgreSQL, MariaDB
 
 I am currently working as a Backend Developer in PHP. Along the job, I like enhancing my skills by making side-projects in my free time!
-Currently I am working on some Fullstack projects involving React development.
+Currently I am working on some Fullstack projects involving Golang, React.
 
 mikolaj.bigaj.00@gmail.com - for any work related topics
 
