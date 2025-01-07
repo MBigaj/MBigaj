@@ -2,7 +2,7 @@
 
 I'm a Computer Science University student with lots of aspirations and motivation to code!
 My main interest is software development and I have been working in the following programming languages:
-- App Dev: Python [Flask, Django], PHP[Yii2], C++, Go, Kotlin
+- App Dev: Python [Flask, Django], PHP [Yii2], C++, Go, Kotlin
 - Backend Dev: Python, PHP, Go
 - Machine Learning: Python
 - DataScience: Python[Scikit-learn, Tensorflow]
