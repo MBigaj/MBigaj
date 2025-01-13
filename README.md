@@ -88,7 +88,7 @@
   </p>
 <hr>
 
-Besides work I try to improve my skills on the daily, currently working on an engineering thesis - talis.live
-A website for board game enthusiasts! Tech Stack -> React, Django, PostgreSQL
+Besides work I try to improve my skills on the daily, currently working on an engineering thesis - [Talis](https://talis.live/),
+a website for board game enthusiasts! Tech Stack -> React, Django, PostgreSQL
 
 mikolaj.bigaj.00@gmail.com - for any work related topics
