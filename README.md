@@ -70,4 +70,25 @@
   </p>
 <hr>
 
+#### Miscellaneous
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=60px />
+    &nbsp &nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=60px />
+    &nbsp &nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width=60px />
+    &nbsp &nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width=60px />
+    &nbsp &nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=60px />
+    &nbsp &nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width=60px />
+    &nbsp &nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=60px />
+  </p>
+<hr>
+
+Besides work I try to improve my skills on the daily, currently working on an engineering thesis - talis.live
+A website for board game enthusiasts! Tech Stack -> React, Django, PostgreSQL
+
 mikolaj.bigaj.00@gmail.com - for any work related topics
