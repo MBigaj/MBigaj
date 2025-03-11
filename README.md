@@ -20,14 +20,14 @@
 
   - <i>Tools</i>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width=60px />
     &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width=60px />
   </p>
   
   - <i>Frameworks</i>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width=60px />
     &nbsp &nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=60px />
     &nbsp &nbsp
@@ -69,7 +69,7 @@
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=60px />
     &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width=60px />
   </p>
 <hr>
 
