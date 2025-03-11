@@ -59,6 +59,8 @@
 #### Databases
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=60px />
+    &nbsp &nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   </p>
 <hr>
 
@@ -90,5 +92,6 @@
 
 Besides work I try to improve my skills on the daily, currently working on an engineering thesis - [Talis](https://talis.live/),
 a website for board game enthusiasts! Tech Stack -> React, Django, PostgreSQL
+Currently I started a new project with FastAPI, MongoDB and React!
 
 mikolaj.bigaj.00@gmail.com - for any work related topics
