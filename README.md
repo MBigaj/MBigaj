@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Nick!
 
 ### I'm a Computer Science University student with lots of aspirations and motivation to code!
-### My main interest is software development and I have been working with the following technologies: <hr>
+### My main interest is software development as well as machine learning, and I have been working with the following technologies: <hr>
 #### Web Development:
   - <i>Languages</i>
   <p>
