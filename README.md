@@ -99,7 +99,7 @@
   </p>
 <hr>
 
-Besides work I try to improve my skills on the daily, currently working on an engineering thesis - [Talis](https://talis.live/),
+Besides work I try to improve my skills on the daily, currently working on an engineering thesis - Talis,
 a website for board game enthusiasts! Tech Stack -> React, Django, PostgreSQL
 Currently I started a new project with FastAPI, MongoDB and React!
 
