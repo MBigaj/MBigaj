@@ -73,7 +73,7 @@
   </p>
 <hr>
 
-#### App Development
+#### Mobile Development
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width=60px />
     &nbsp &nbsp
