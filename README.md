@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Nick!
 
-### I'm a Computer Science University student with lots of aspirations and motivation to code!
+### I'm a Computer Science University Graduate with lots of aspirations and motivation to code!
 ### My main interest is software development as well as machine learning, and I have been working with the following technologies: <hr>
 #### Web Development:
   - <i>Languages</i>
@@ -70,6 +70,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=60px />
     &nbsp &nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width=60px />
+    &nbsp &nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width=60px />
   </p>
 <hr>
 
@@ -81,8 +83,18 @@
   </p>
 <hr>
 
+#### Monitoring/Analytical Tools
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/newrelic/newrelic-original.svg" width=60px />
+    &nbsp &nbsp      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width=60px />
+  </p>
+<hr>
+
 #### Miscellaneous
   <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+    &nbsp &nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=60px />
     &nbsp &nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=60px />
@@ -99,8 +111,13 @@
   </p>
 <hr>
 
-Besides work I try to improve my skills on the daily, currently working on an engineering thesis - Talis,
-a website for board game enthusiasts! Tech Stack -> React, Django, PostgreSQL
-Currently I started a new project with FastAPI, MongoDB and React!
+Besides work I try to improve my skills on the daily, currently working on a personal project - DSTBG,
+a website for Dark Souls the Board Game!
+Tech Stack:
+- FastAPI
+- ReactJS
+- MongoDB
+- Docker
+- NewRelic
 
 mikolaj.bigaj.00@gmail.com - for any work related topics
