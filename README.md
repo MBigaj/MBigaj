@@ -1,123 +1,42 @@
-## 👋 Hi, I’m Nick!
+## Hi, I'm Nick 👋
 
-### I'm a Computer Science University Graduate with lots of aspirations and motivation to code!
-### My main interest is software development as well as machine learning, and I have been working with the following technologies: <hr>
-#### Web Development:
-  - <i>Languages</i>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=60px />
-  </p>
+**Mikołaj Bigaj** · Python Backend Engineer · Poznań area, Poland
 
-  - <i>Tools</i>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width=60px />
-  </p>
-  
-  - <i>Frameworks</i>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original.svg" width=60px />
-  </p>
-<hr>
+`Python` `FastAPI` `Django` `PostgreSQL` `MongoDB` `Kubernetes` `Docker` `Git`
 
-#### Software Engineering
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=60px />
-  </p>
-<hr>
+Python backend engineer at **YouGov** with a Computer Science degree. I design, build and migrate backend services, and have worked across a range of programming languages, databases, deployment systems and analytical tools. Outside work I'm into machine learning and backend system design.
 
-#### Data Science / Machine Learning
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width=60px />
-  </p>
-<hr>
+[Portfolio](https://mbigaj.github.io) · [LinkedIn](https://www.linkedin.com/in/mikolajbigaj) · [Email](mailto:mikolaj.bigaj.00@gmail.com)
 
-#### Databases
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width=60px />
-  </p>
-<hr>
+---
 
-#### Mobile Development
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=60px />
-  </p>
-<hr>
+### `01` Now
 
-#### Monitoring/Analytical Tools
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/newrelic/newrelic-original.svg" width=60px />
-    &nbsp &nbsp      
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width=60px />
-  </p>
-<hr>
+- **Associate Backend Engineer at YouGov**. Python APIs and integrations, service migrations, messaging with RabbitMQ, Kubernetes deployments and New Relic monitoring.
+- **Building [DSTBG](https://github.com/MBigaj/DarkSoulsTheBoardGameApp)** in my spare time, a companion web app for *Dark Souls: The Board Game*.
 
-#### Miscellaneous
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width=60px />
-    &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=60px />
-  </p>
-<hr>
+### `02` Stack
 
-Besides work I try to improve my skills on the daily, currently working on a personal project - DSTBG,
-a website for Dark Souls the Board Game!
-Tech Stack:
-- FastAPI
-- ReactJS
-- MongoDB
-- Docker
-- NewRelic
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" width="44" alt="Python" title="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/fastapi/fastapi-original.svg" width="44" alt="FastAPI" title="FastAPI" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/postgresql/postgresql-original.svg" width="44" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mongodb/mongodb-original.svg" width="44" alt="MongoDB" title="MongoDB" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/redis/redis-original.svg" width="44" alt="Redis" title="Redis" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/rabbitmq/rabbitmq-original.svg" width="44" alt="RabbitMQ" title="RabbitMQ" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/kubernetes/kubernetes-original.svg" width="44" alt="Kubernetes" title="Kubernetes" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/docker/docker-original.svg" width="44" alt="Docker" title="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="44" alt="Git" title="Git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/react/react-original.svg" width="44" alt="React" title="React" />
+</p>
 
-mikolaj.bigaj.00@gmail.com - for any work related topics
+| Use | Technologies |
+| :-- | :-- |
+| **Daily** | `Python` `PostgreSQL` `MongoDB` `Kubernetes` `Docker` `Git` `GitLab` `GitHub` `Agile` `Kanban` |
+| **Solid** | `FastAPI` `Django` `React` `Redis` `RabbitMQ` `NumPy` `New Relic` `CI/CD` `pytest` |
+| **Familiar** | `Go` `Vue` `AWS` `Elasticsearch` |
+| **Also worked with** | `Flask` `CherryPy` `PHP (Yii2)` `JavaScript` `HTML/CSS` `C++` `Kotlin` `C#` `pandas` `Jupyter` `scikit-learn` `TensorFlow` `Neo4j` `Jenkins` `Bitbucket` `Linux` `Poetry` `Makefiles` |
+
+---
+
+<sub>Work enquiries: [mikolaj.bigaj.00@gmail.com](mailto:mikolaj.bigaj.00@gmail.com)</sub>
