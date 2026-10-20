@@ -1,12 +1,10 @@
 ## Hi, I'm Nick 👋
 
-**Mikołaj Bigaj** · Python Backend Engineer · Poznań area, Poland
-
 `Python` `FastAPI` `Django` `PostgreSQL` `MongoDB` `Kubernetes` `Docker` `Git`
 
 Python backend engineer at **YouGov** with a Computer Science degree. I design, build and migrate backend services, and have worked across a range of programming languages, databases, deployment systems and analytical tools. Outside work I'm into machine learning and backend system design.
 
-[Portfolio](https://mbigaj.github.io) · [LinkedIn](https://www.linkedin.com/in/mikolajbigaj) · [Email](mailto:mikolaj.bigaj.00@gmail.com)
+[Portfolio](https://mbigaj.github.io) · [LinkedIn](https://www.linkedin.com/in/mikolajbigaj)
 
 ---
 
